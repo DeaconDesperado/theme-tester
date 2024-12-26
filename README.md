@@ -7,5 +7,6 @@ This is a helper plugin to test themes. It displays all the Zellij UI components
 
 At your convenience, choose one of:
 
-1. From inside Zellij: `zellij plugin -f -- https://github.com/imsnif/theme-tester/releases/download/latest/theme-tester.wasm`
-2. From inside Zellij: open the plugin manager `Ctrl o` + `p`, press `Ctrl a` and paste this URL inside: `https://github.com/imsnif/theme-tester/releases/download/latest/theme-tester.wasm`
+1. From inside Zellij: `zellij plugin -f -- https://github.com/imsnif/theme-tester/releases/latest/download/theme-tester.wasm`
+
+2. From inside Zellij: open the plugin manager `Ctrl o` + `p`, press `Ctrl a` and paste this URL inside: `https://github.com/imsnif/theme-tester/releases/latest/download/theme-tester.wasm`
